@@ -3,7 +3,7 @@ module github.com/thulasirajkomminar/tfe-run
 go 1.26.4
 
 require (
-	github.com/hashicorp/go-tfe/v2 v2.12.0
+	github.com/hashicorp/go-tfe/v2 v2.13.0
 	github.com/microsoft/kiota-abstractions-go v1.11.1
 	github.com/sirupsen/logrus v1.10.2
 	github.com/spf13/cobra v1.10.2
