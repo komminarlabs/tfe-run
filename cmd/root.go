@@ -12,7 +12,7 @@ import (
 	log "github.com/sirupsen/logrus"
 	"github.com/spf13/cobra"
 
-	tfeclient "github.com/thulasirajkomminar/tfe-run/internal/tfe"
+	tfeclient "github.com/komminarlabs/tfe-run/internal/tfe"
 )
 
 type runOptions struct {

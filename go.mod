@@ -1,4 +1,4 @@
-module github.com/thulasirajkomminar/tfe-run
+module github.com/komminarlabs/tfe-run
 
 go 1.26.4
 

@@ -211,7 +211,7 @@ formatters:
       sections:
         - standard
         - default
-        - prefix(github.com/thulasirajkomminar/tfe-run)
+        - prefix(github.com/komminarlabs/tfe-run)
     gofmt:
       simplify: true
   exclusions:
