@@ -23,13 +23,13 @@ See: [https://developer.hashicorp.com/terraform/cli/config/config-file#credentia
 ## Install
 
 ```bash
-go install github.com/thulasirajkomminar/tfe-run@latest
+go install github.com/komminarlabs/tfe-run@latest
 ```
 
 Or build from source:
 
 ```bash
-git clone https://github.com/thulasirajkomminar/tfe-run.git
+git clone https://github.com/komminarlabs/tfe-run.git
 cd tfe-run
 go install
 ```

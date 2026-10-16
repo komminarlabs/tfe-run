@@ -4,7 +4,7 @@ package main
 import (
 	"os"
 
-	"github.com/thulasirajkomminar/tfe-run/cmd"
+	"github.com/komminarlabs/tfe-run/cmd"
 )
 
 func main() {
